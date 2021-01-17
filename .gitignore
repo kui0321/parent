@@ -1,0 +1,5 @@
+# Project exclude paths
+/controller/target/
+/mapper/target/
+/pojo/target/
+/service/target/
